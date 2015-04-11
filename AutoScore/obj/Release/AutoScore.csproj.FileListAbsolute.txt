@@ -1,0 +1,8 @@
+C:\Users\qi\Desktop\src\C#\AutoScore\AutoScore\bin\Release\AutoScore.exe.config
+C:\Users\qi\Desktop\src\C#\AutoScore\AutoScore\bin\Release\AutoScore.exe
+C:\Users\qi\Desktop\src\C#\AutoScore\AutoScore\bin\Release\AutoScore.pdb
+C:\Users\qi\Desktop\src\C#\AutoScore\AutoScore\obj\Release\AutoScore.AutoScore.resources
+C:\Users\qi\Desktop\src\C#\AutoScore\AutoScore\obj\Release\AutoScore.Properties.Resources.resources
+C:\Users\qi\Desktop\src\C#\AutoScore\AutoScore\obj\Release\AutoScore.csproj.GenerateResource.Cache
+C:\Users\qi\Desktop\src\C#\AutoScore\AutoScore\obj\Release\AutoScore.exe
+C:\Users\qi\Desktop\src\C#\AutoScore\AutoScore\obj\Release\AutoScore.pdb
